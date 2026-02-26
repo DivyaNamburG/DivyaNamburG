@@ -6,7 +6,7 @@ I build high-performance backend systems and AI-powered automation tools. Curren
 
 ---
 
-### 🔧 What I Work With
+###  What I Work With
 
 **Backend:** Java 17, Spring Boot 3, Microservices, REST APIs, Kafka, PostgreSQL  
 **AI/ML:** Python, XGBoost, Hugging Face Transformers, Scikit-learn, NLP, RAG Pipelines  
